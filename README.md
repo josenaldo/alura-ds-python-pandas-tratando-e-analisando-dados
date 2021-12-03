@@ -64,7 +64,7 @@ flake8..........................................................Passed
 Se for preciso atualizar o pre-commit, use o comando
 
 ```shell
- pre-commit autoupdate
+pre-commit autoupdate
 ```
 
 ## Referências
