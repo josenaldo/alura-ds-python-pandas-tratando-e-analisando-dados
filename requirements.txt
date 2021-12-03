@@ -13,3 +13,5 @@ jupyterlab_code_formatter
 black
 aquirdturtle_collapsible_headings
 jupyterlab_tabnine
+openpyxl
+lxml
