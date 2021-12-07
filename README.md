@@ -3,6 +3,8 @@
 Esse repositório contém os exercícios e anotações do curso
 [Python Pandas: Tratando e analisando dados](https://cursos.alura.com.br/course/introducao-python-pandas), da Alura.
 
+A tarefa referente a esse curso é: [https://github.com/josenaldo/caderno-data-science/issues/21](https://github.com/josenaldo/caderno-data-science/issues/21)
+
 ## Ferramentas usadas nesse repositótio
 
 ### Autopep8
